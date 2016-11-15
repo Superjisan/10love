@@ -1,0 +1,44 @@
+.ten-love i{
+    font-size: 7.5rem;
+}
+
+.ten-love i:nth-child(1) {
+    color: red;
+}
+
+.ten-love i:nth-child(2) {
+    color: blue;
+}
+
+.ten-love i:nth-child(3) {
+    color: yellow;
+}
+
+.ten-love i:nth-child(4) {
+    color: brown;
+}
+
+.ten-love i:nth-child(5) {
+    color: black;
+}
+
+.ten-love i:nth-child(6) {
+    color: cyan;
+}
+
+.ten-love i:nth-child(7) {
+    color: violet;
+}
+
+.ten-love i:nth-child(8) {
+    color: pink;
+}
+
+.ten-love i:nth-child(9) {
+    color: orange;
+}
+
+.ten-love i:nth-child(10) {
+    color: white;
+}
+
